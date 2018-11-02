@@ -1,11 +1,11 @@
 {
   "lang": [
-    { "title": "English",  "active": true,  "dataLang": "en", "id": 0 },
-    { "title": "Русский",  "active": false, "dataLang": "ru", "id": 1 },
-    { "title": "العربية",  "active": false, "dataLang": "ar", "id": 2 },
-    { "title": "Français", "active": false, "dataLang": "fr", "id": 3 },
-    { "title": "Italiano", "active": false, "dataLang": "it", "id": 4 },
-    { "title": "Polski",   "active": false, "dataLang": "pl", "id": 5 },
-    { "title": "Español",  "active": false, "dataLang": "es", "id": 6 }
+    { "title": "English",  "active": true,  "dataLang": "en" },
+    { "title": "Русский",  "active": false, "dataLang": "ru" },
+    { "title": "العربية",  "active": false, "dataLang": "ar" },
+    { "title": "Français", "active": false, "dataLang": "fr" },
+    { "title": "Italiano", "active": false, "dataLang": "it" },
+    { "title": "Polski",   "active": false, "dataLang": "pl" },
+    { "title": "Español",  "active": false, "dataLang": "es" }
   ]
 }
